@@ -1,11 +1,11 @@
-Name,Country,Price
-Kane,ENG,$10.5m
-Mbappé,FRA,$10.5m
-Haaland,NOR,$10.5m
-Messi,ARG,$10m
-Vinícius Júnior,BRA,$10m
-Lamine Yamal,ESP,$10m
-Cristiano Ronaldo,POR,$10m
-Mohamed Salah,EGY,$10m
-Bruno Fernandes,POR,$8.5m
-Bellingham,ENG,$8.3m
+Name,Position,Country,Price
+Kane,FWD,ENG,$10.5m
+Mbappé,FWD,FRA,$10.5m
+Haaland,FWD,NOR,$10.5m
+Lamine Yamal,MID,ESP,$10m
+Mohamed Salah,FWD,EGY,$10m
+Bruno Fernandes,MID,POR,$8.5m
+Bellingham,MID,ENG,$8.3m
+Van Dijk,DEF,NED,$6.5m
+Raya,GK,ESP,$5m
+Verbruggen,GK,NED,$4.7m

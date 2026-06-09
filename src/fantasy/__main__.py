@@ -29,9 +29,10 @@ def cmd_demo(_args):
 
 
 def cmd_scrape(args):
-    from fantasy.ingest.fbref import build_history
-    df = build_history(save=True)
-    print(f"Scraped {len(df)} player-season rows -> data/processed/player_history.parquet")
+    from fantasy.ingest.fbref import DEFAULT_CLUB_LEAGUE, build_history
+    leagues = [s.strip() for s in args.leagues.split(";")] if args.leagues else [DEFAULT_CLUB_LEAGUE]
+    df = build_history(season=args.season, club_leagues=leagues, save=True)
+    print(f"Scraped {len(df)} rows across {len(leagues)} league(s) -> data/processed/player_history.parquet")
 
 
 def cmd_optimize(args):
@@ -65,6 +66,8 @@ def main(argv=None):
     p.set_defaults(func=cmd_demo)
 
     p = sub.add_parser("scrape", help="Scrape history from FBref (needs internet)")
+    p.add_argument("--season", default="2526", help="FBref season code, e.g. 2526")
+    p.add_argument("--leagues", default=None, help="';'-separated soccerdata league names")
     p.set_defaults(func=cmd_scrape)
 
     p = sub.add_parser("optimize", help="Optimal squad from a price list")

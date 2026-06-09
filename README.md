@@ -47,17 +47,19 @@ streamlit run app/streamlit_app.py
 
 ## Using real data
 
-1. **Provide your price list** (`players.csv`) with columns `Name, Country,
-   Price`. Country may be a FIFA 3-letter code (ENG, FRA, ...) and price may be
-   formatted like `$10.5m`. A `position` column is optional — if absent,
-   positions are taken from the scraped FBref data via the entity match. Prices
-   are never scraped.
-2. **Scrape history** from FBref (needs internet). Pulls a **single most-recent
-   season (2025/26)** across all configured competitions plus the supported
-   international tournaments, then sums per player for an "all competitions" view:
+1. **Provide your price list** (`players.csv`) with columns `Name, Position,
+   Country, Price`. Country may be a FIFA 3-letter code (ENG, FRA, ...) and price
+   may be formatted like `$10.5m`. `Position` is optional — if omitted, positions
+   are taken from the scraped FBref data via the entity match. Prices are never
+   scraped.
+2. **Scrape history** from FBref (needs internet). Uses **league-level scraping**
+   (one request per stat category per competition — a handful of throttled
+   requests covering thousands of players) for a **single most-recent season
+   (2025/26)**, summed per player for an "all competitions" view:
 
    ```bash
-   python -m fantasy scrape
+   python -m fantasy scrape                       # big-5 + Euro 2024
+   python -m fantasy scrape --season 2526 --leagues "Big 5 European Leagues Combined"
    ```
 
    ### Data coverage caveat
@@ -65,10 +67,11 @@ streamlit run app/streamlit_app.py
    leagues (combined) plus past World Cups / Euros. It does **not** expose
    domestic cups, the Champions/Europa League, leagues outside the big 5 (MLS,
    Saudi, Eredivisie, Liga MX, ...), or this-season WC qualifiers / Nations
-   League / friendlies. To widen coverage, pass more leagues to
-   `build_history(club_leagues=[...])` (any soccerdata-supported FBref league)
-   or extend soccerdata's `league_dict.json`. Players with no scraped stats get
-   EP 0 and no position, and are reported as dropped.
+   League / friendlies. So a big-5-only scrape matches ~50% of a global World Cup
+   pool; the rest get EP 0 until covered. To widen coverage, pass more leagues to
+   `build_history(club_leagues=[...])` / `--leagues` (any soccerdata-supported
+   FBref league) or extend soccerdata's `league_dict.json`. FBref is behind a
+   Cloudflare challenge — run from a residential IP if you hit a 403.
 
 3. **Optimize** your squad for a stage:
 

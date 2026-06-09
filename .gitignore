@@ -12,3 +12,6 @@ soccerdata/
 
 # OS junk
 .DS_Store
+
+# Scratch calibration HTML (regenerable)
+tests/fixtures/
