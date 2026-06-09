@@ -1,0 +1,875 @@
+Name,Country,Price
+Kane,ENG,$10.5m
+Mbappé,FRA,$10.5m
+Haaland,NOR,$10.5m
+Messi,ARG,$10m
+Vinícius Júnior,BRA,$10m
+Dembélé,FRA,$10m
+Lamine Yamal,ESP,$10m
+Cristiano Ronaldo,POR,$10m
+Mohamed Salah,EGY,$10m
+Saka,ENG,$9.5m
+Olise,FRA,$9.5m
+Lautaro Martínez,ARG,$8.8m
+Alvarez,ARG,$8.6m
+Bruno Fernandes,POR,$8.5m
+Bellingham,ENG,$8.3m
+Raphinha,BRA,$8.2m
+Díaz,COL,$8.1m
+Oyarzabal,ESP,$8.1m
+Pedri,ESP,$8.1m
+Cherki,FRA,$8m
+Barcola,FRA,$8m
+Isak,SWE,$8m
+Musiala,GER,$8m
+Eze,ENG,$8m
+Watkins,ENG,$7.9m
+Omar Marmoush,EGY,$7.8m
+Havertz,GER,$7.8m
+Torres,ESP,$7.8m
+Gyökeres,SWE,$7.8m
+Bernardo Silva,POR,$7.8m
+Rafael Leão,POR,$7.8m
+Williams,ESP,$7.8m
+Gakpo,NED,$7.7m
+Olmo,ESP,$7.7m
+Ødegaard,NOR,$7.7m
+Mané,SEN,$7.6m
+Fernández,ARG,$7.5m
+Doku,BEL,$7.5m
+De Bruyne,BEL,$7.5m
+Rashford,ENG,$7.5m
+Thuram,FRA,$7.5m
+Doué,FRA,$7.5m
+Wirtz,GER,$7.5m
+Gonçalo Ramos,POR,$7.5m
+Rodri,ESP,$7.5m
+Embolo,SUI,$7.5m
+Núñez,URU,$7.5m
+Valverde,URU,$7.5m
+Toney,ENG,$7.5m
+Lukaku,BEL,$7.4m
+Sané,GER,$7.4m
+Son Heung-Min,KOR,$7.4m
+Depay,NED,$7.4m
+Matheus Cunha,BRA,$7.3m
+Schick,CZE,$7.3m
+Rogers,ENG,$7.2m
+Woltemade,GER,$7.2m
+Neymar,BRA,$7.2m
+Salem Al Dawsari,KSA,$7.2m
+Semenyo,GHA,$7.2m
+Çalhanoglu,TUR,$7.1m
+David,CAN,$7m
+Gordon,ENG,$7m
+Rice,ENG,$7m
+Ueda,JPN,$7m
+Jiménez,MEX,$7m
+Yildiz,TUR,$7m
+Güler,TUR,$7m
+Pulisic,USA,$7m
+Kubo,JPN,$7m
+de Jong,NED,$7m
+Sabitzer,AUT,$6.8m
+Seko Fofana,CIV,$6.8m
+Budimir,CRO,$6.8m
+Moisés Caicedo,ECU,$6.8m
+Saibari,MAR,$6.8m
+Timber,NED,$6.8m
+Sørloth,NOR,$6.8m
+Gómez,PAR,$6.8m
+Iglesias,ESP,$6.8m
+Ndoye,SUI,$6.8m
+Vargas,SUI,$6.8m
+Bruno Guimarães,BRA,$6.8m
+Giménez,MEX,$6.8m
+Ruiz,ESP,$6.8m
+Jackson,SEN,$6.7m
+Mac Allister,ARG,$6.6m
+Undav,GER,$6.6m
+Enciso,PAR,$6.6m
+Trossard,BEL,$6.6m
+Mahrez,ALG,$6.5m
+Almada,ARG,$6.5m
+Gabriel Martinelli,BRA,$6.5m
+Lucas Paquetá,BRA,$6.5m
+Rodríguez,COL,$6.5m
+Bakambu,COD,$6.5m
+Baturina,CRO,$6.5m
+Anderson,ENG,$6.5m
+Tchouaméni,FRA,$6.5m
+Reijnders,NED,$6.5m
+Carrasquilla,PAN,$6.5m
+Sanabria,PAR,$6.5m
+João Félix,POR,$6.5m
+João Neves,POR,$6.5m
+McTominay,SCO,$6.5m
+Ndiaye,SEN,$6.5m
+de Arrascaeta,URU,$6.5m
+Shomurodov,UZB,$6.5m
+Hlozek,CZE,$6.5m
+Mateta,FRA,$6.5m
+Wood,NZL,$6.5m
+Beier,GER,$6.5m
+Aursnes,NOR,$6.5m
+Gavi,ESP,$6.5m
+Kluivert,NED,$6.5m
+Pasalic,CRO,$6.4m
+Rabiot,FRA,$6.4m
+Akliouche,FRA,$6.4m
+Fidalgo,MEX,$6.4m
+Pedro Neto,POR,$6.4m
+Vitinha,POR,$6.4m
+Araújo,URU,$6.4m
+Leweling,GER,$6.4m
+Fatawu,GHA,$6.4m
+Díaz,MAR,$6.4m
+Casemiro,BRA,$6.3m
+Arias,COL,$6.3m
+Hernández,COL,$6.3m
+Huerta,MEX,$6.3m
+Chávez,MEX,$6.3m
+Amiri,GER,$6.3m
+Éderson,BRA,$6.3m
+Amoura,ALG,$6.2m
+Gouiri,ALG,$6.2m
+Chaïbi,ALG,$6.2m
+Barco,ARG,$6.2m
+Demirovic,BIH,$6.2m
+Larin,CAN,$6.2m
+Wissa,COD,$6.2m
+Bongonda,COD,$6.2m
+Kramaric,CRO,$6.2m
+Modric,CRO,$6.2m
+Lee Jae-Sung,KOR,$6.2m
+Pineda,MEX,$6.2m
+Koopmeiners,NED,$6.2m
+Schjelderup,NOR,$6.2m
+Thorstvedt,NOR,$6.2m
+Sarr,SEN,$6.2m
+Lamine Camara,SEN,$6.2m
+Diarra,SEN,$6.2m
+Xhaka,SUI,$6.2m
+Rieder,SUI,$6.2m
+Aktürkoglu,TUR,$6.2m
+Rodríguez,URU,$6.2m
+Fayzullaev,UZB,$6.2m
+Lo Celso,ARG,$6.2m
+Partey,GHA,$6.2m
+Merino,ESP,$6.2m
+Ounahi,MAR,$6.2m
+El Khannouss,MAR,$6.2m
+Tielemans,BEL,$6.1m
+Dzeko,BIH,$6.1m
+Luiz Henrique,BRA,$6.1m
+Córdoba,COL,$6.1m
+Carrascal,COL,$6.1m
+Vlasic,CRO,$6.1m
+Madueke,ENG,$6.1m
+Mainoo,ENG,$6.1m
+Zaïre-Emery,FRA,$6.1m
+Koné,FRA,$6.1m
+Goretzka,GER,$6.1m
+Taremi,IRN,$6.1m
+Hwang Hee-Chan,KOR,$6.1m
+Lee Kang-In,KOR,$6.1m
+Malen,NED,$6.1m
+Gravenberch,NED,$6.1m
+Nusa,NOR,$6.1m
+Matheus Nunes,POR,$6.1m
+Diatta,SEN,$6.1m
+Zubimendi,ESP,$6.1m
+Svanberg,SWE,$6.1m
+Sow,SUI,$6.1m
+Zakaria,SUI,$6.1m
+Yilmaz,TUR,$6.1m
+Tillman,USA,$6.1m
+McKennie,USA,$6.1m
+Masharipov,UZB,$6.1m
+Sergeev,UZB,$6.1m
+Fassnacht,SUI,$6.1m
+Aouar,ALG,$6m
+Palacios,ARG,$6m
+Arnautovic,AUT,$6m
+Gregoritsch,AUT,$6m
+Kalajdzic,AUT,$6m
+Schmid,AUT,$6m
+Wimmer,AUT,$6m
+Koné,CAN,$6m
+Nazon,SCO,$6m
+Almirón,PAR,$6m
+McGinn,SCO,$6m
+Baena,ESP,$6m
+Kökçü,TUR,$6m
+Balogun,USA,$6m
+Endo,JPN,$6m
+Álvarez,MEX,$6m
+Sema,SWE,$6m
+Kovacic,CRO,$6m
+Angulo,ECU,$6m
+Hakimi,MAR,$6m
+Volpato,AUS,$6m
+Bentancur,URU,$6m
+Zalazar,URU,$6m
+De Paul,ARG,$5.9m
+Paz,ARG,$5.9m
+Lukébakio,BEL,$5.9m
+Onana,BEL,$5.9m
+Igor Thiago,BRA,$5.9m
+Diomande,CIV,$5.9m
+Pépé,CIV,$5.9m
+Wahi,CIV,$5.9m
+Diallo,CIV,$5.9m
+Kessie,CIV,$5.9m
+Provod,CZE,$5.9m
+Sulc,CZE,$5.9m
+Enner Valencia,ECU,$5.9m
+Ibrahim Adel,EGY,$5.9m
+Mohebi,IRN,$5.9m
+Ghayedi,IRN,$5.9m
+Bae Jun-Ho,KOR,$5.9m
+El Kaabi,MAR,$5.9m
+Lang,NED,$5.9m
+Hauge,NOR,$5.9m
+Trincão,POR,$5.9m
+Rúben Neves,POR,$5.9m
+Akram Afif,QAT,$5.9m
+Gueye,SEN,$5.9m
+Pino,ESP,$5.9m
+Aebischer,SUI,$5.9m
+Freuler,SUI,$5.9m
+Okafor,SUI,$5.9m
+Kahveci,TUR,$5.9m
+Ugarte,URU,$5.9m
+de la Cruz,URU,$5.9m
+Viñas,URU,$5.9m
+Pepi,USA,$5.9m
+Pitta,PAR,$5.9m
+Iñaki Williams,GHA,$5.9m
+Amrabat,MAR,$5.9m
+Laimer,AUT,$5.8m
+Sangaré,CIV,$5.8m
+Stiller,GER,$5.8m
+Kamada,JPN,$5.8m
+Nuno Mendes,POR,$5.8m
+Gonçalo Guedes,POR,$5.8m
+Elanga,SWE,$5.8m
+Weah,USA,$5.8m
+Hwang In-Beom,KOR,$5.8m
+Hrustic,AUS,$5.7m
+Saelemaekers,BEL,$5.7m
+Suárez,COL,$5.7m
+Dumfries,NED,$5.7m
+Brobbey,NED,$5.7m
+Francisco Conceição,POR,$5.7m
+Aaronson,USA,$5.7m
+Iskanderov,UZB,$5.7m
+Simeone,ARG,$5.6m
+González,ARG,$5.6m
+Paredes,ARG,$5.6m
+Mabil,AUS,$5.6m
+Seiwald,AUT,$5.6m
+Wanner,AUT,$5.6m
+De Ketelaere,BEL,$5.6m
+Lukic,BIH,$5.6m
+Rayan,BRA,$5.6m
+Danilo,BRA,$5.6m
+Osorio,CAN,$5.6m
+Quintero,COL,$5.6m
+Banza,COD,$5.6m
+Kayembe,COD,$5.6m
+Adingra,CIV,$5.6m
+Moro,CRO,$5.6m
+Jakic,CRO,$5.6m
+Soucek,CZE,$5.6m
+Sadílek,CZE,$5.6m
+Plata,ECU,$5.6m
+Franco,ECU,$5.6m
+Trezeguet,EGY,$5.6m
+Groß,GER,$5.6m
+Torabi,IRN,$5.6m
+Ezatolahi,IRN,$5.6m
+Zidane Iqbal,IRQ,$5.6m
+Ibrahim Bayesh,IRQ,$5.6m
+Mousa Al Tamari,JOR,$5.6m
+Paik Seung-Ho,KOR,$5.6m
+Castrop,KOR,$5.6m
+Quiñones,MEX,$5.6m
+Lira,MEX,$5.6m
+Stamenic,NZL,$5.6m
+Thorsby,NOR,$5.6m
+Berg,NOR,$5.6m
+Strand Larsen,NOR,$5.6m
+Bárcenas,PAN,$5.6m
+Rodríguez,PAN,$5.6m
+Godoy,PAN,$5.6m
+Braian Ojeda,PAR,$5.6m
+Samú Costa,POR,$5.6m
+Aiman Yahya,KSA,$5.6m
+Christie,SCO,$5.6m
+Sarr,SEN,$5.6m
+Ciss,SEN,$5.6m
+Karlström,SWE,$5.6m
+Manzambi,SUI,$5.6m
+Aguirre,URU,$5.6m
+Urunov,UZB,$5.6m
+Fernandez-Pardo,BEL,$5.6m
+Nmecha,GER,$5.6m
+Irvine,AUS,$5.6m
+El Aynaoui,MAR,$5.6m
+Rahimi,MAR,$5.6m
+Boudaoui,ALG,$5.5m
+Grillitsch,AUT,$5.5m
+Xaver Schlager,AUT,$5.5m
+Hadziahmetovic,BIH,$5.5m
+Gabriel Magalhães,BRA,$5.5m
+Endrick,BRA,$5.5m
+Buchanan,CAN,$5.5m
+Campaz,COL,$5.5m
+Seri,CIV,$5.5m
+Rüdiger,GER,$5.5m
+Kimmich,GER,$5.5m
+Nakamura,JPN,$5.5m
+van Dijk,NED,$5.5m
+Weghorst,NED,$5.5m
+Bobadilla,PAR,$5.5m
+Porro,ESP,$5.5m
+Laporte,ESP,$5.5m
+Llorente,ESP,$5.5m
+Reyna,USA,$5.5m
+Kuchta,CZE,$5.5m
+Romo,MEX,$5.5m
+Ahmed Alaa,QAT,$5.5m
+Vanaken,BEL,$5.5m
+Shankland,SCO,$5.5m
+Pavlovic,GER,$5.5m
+Bouaddi,MAR,$5.5m
+Aasgaard,NOR,$5.5m
+Mohammed Abu Al Sha...,KSA,$5.5m
+Zendejas,USA,$5.5m
+Bentaleb,ALG,$5.5m
+Maza,ALG,$5.4m
+O'Neill,AUS,$5.4m
+Perisic,CRO,$5.4m
+Adams,SCO,$5.4m
+Foster,RSA,$5.4m
+Koundé,FRA,$5.4m
+Stewart,SCO,$5.4m
+Itten,SUI,$5.4m
+Promise David,CAN,$5.4m
+Hadj Moussa,ALG,$5.3m
+Zerrouki,ALG,$5.3m
+López,ARG,$5.3m
+Metcalfe,AUS,$5.3m
+Schöpf,AUT,$5.3m
+Raskin,BEL,$5.3m
+Tahirovic,BIH,$5.3m
+Choinière,CAN,$5.3m
+Puerta,COL,$5.3m
+Sadiki,COD,$5.3m
+Pickel,COD,$5.3m
+Guessand,CIV,$5.3m
+Pasalic,CRO,$5.3m
+Chory,CZE,$5.3m
+Cerv,CZE,$5.3m
+Darida,CZE,$5.3m
+Mohanad Lasheen,EGY,$5.3m
+Upamecano,FRA,$5.3m
+Tah,GER,$5.3m
+Schlotterbeck,GER,$5.3m
+Jahanbakhsh,IRN,$5.3m
+Amir Al Ammari,IRQ,$5.3m
+Aimar Sher,IRQ,$5.3m
+Aymen Hussein,IRQ,$5.3m
+Cho Gue-Sung,KOR,$5.3m
+Vega,MEX,$5.3m
+Alvarado,MEX,$5.3m
+Thomas,NZL,$5.3m
+Martínez,PAN,$5.3m
+Sosa,PAR,$5.3m
+João Cancelo,POR,$5.3m
+Almoez Ali,QAT,$5.3m
+Feras Al Brikan,KSA,$5.3m
+Ayari,SWE,$5.3m
+Ben Slimane,TUN,$5.3m
+Canobbio,URU,$5.3m
+G'aniev,UZB,$5.3m
+Hamrobekov,UZB,$5.3m
+Saliba,FRA,$5.3m
+Singh,NZL,$5.3m
+Abdulaziz Hatem,QAT,$5.3m
+Mohammed Muntari,QAT,$5.3m
+Diakité,CIV,$5.3m
+Uzun,TUR,$5.3m
+Rayners,RSA,$5.3m
+Owusu,GHA,$5.3m
+Ayew,GHA,$5.3m
+Ezzalzouli,MAR,$5.3m
+Adams,USA,$5.3m
+Wright,USA,$5.3m
+Summerville,NED,$5.3m
+Marquinhos,BRA,$5.2m
+Fabinho,BRA,$5.2m
+Páez,ECU,$5.2m
+Vite,ECU,$5.2m
+Hernández,FRA,$5.2m
+Jashari,SUI,$5.2m
+Pellistri,URU,$5.2m
+James,ENG,$5.2m
+Nasser Al Dawsari,KSA,$5.2m
+Shaffelburg,CAN,$5.2m
+Irankunda,AUS,$5.1m
+Tabakovic,BIH,$5.1m
+Sunjic,BIH,$5.1m
+Gigovic,BIH,$5.1m
+Basic,BIH,$5.1m
+Laros Duarte,CPV,$5.1m
+Millar,CAN,$5.1m
+Saliba,CAN,$5.1m
+Moutoussamy,COD,$5.1m
+Musa,CRO,$5.1m
+Bacuna,CUW,$5.1m
+Yeboah,ECU,$5.1m
+Guéhi,ENG,$5.1m
+Henderson,ENG,$5.1m
+Gusto,FRA,$5.1m
+Kanté,FRA,$5.1m
+Ghorbani,IRN,$5.1m
+Yakob,IRQ,$5.1m
+Doan,JPN,$5.1m
+van de Ven,NED,$5.1m
+Bell,NZL,$5.1m
+Bobb,NOR,$5.1m
+Assim Madibo,QAT,$5.1m
+Mohamed Kanno,KSA,$5.1m
+Abdullah Al Khaibari,KSA,$5.1m
+Yaya Sithole,RSA,$5.1m
+Cucurella,ESP,$5.1m
+Bergvall,SWE,$5.1m
+Khamdamov,UZB,$5.1m
+Doudera,CZE,$5.1m
+Thomas-Asante,GHA,$5.1m
+Sulemana,GHA,$5.1m
+de Roon,NED,$5.1m
+Martínez,ARG,$5m
+Chukwuemeka,AUT,$5m
+Witsel,BEL,$5m
+Ederson,BRA,$5m
+Alisson Becker,BRA,$5m
+Hernández,FRA,$5m
+Digne,FRA,$5m
+Maignan,FRA,$5m
+Isidor,HAI,$5m
+Ito,JPN,$5m
+Maeda,JPN,$5m
+Suzuki,JPN,$5m
+Tanaka,JPN,$5m
+Kim Min-Jae,KOR,$5m
+Brian Gutiérrez,MEX,$5m
+Aké,NED,$5m
+Murillo,PAN,$5m
+Waterman,PAN,$5m
+Diogo Dalot,POR,$5m
+Robertson,SCO,$5m
+Cubarsí,ESP,$5m
+Raya,ESP,$5m
+Simón,ESP,$5m
+Akanji,SUI,$5m
+Ben Ouanes,TUN,$5m
+Aydin,TUR,$5m
+Araujo,URU,$5m
+Robinson,USA,$5m
+Shukurov,UZB,$5m
+Garbett,NZL,$5m
+Jassem Gaber,QAT,$5m
+Gilson Benchimol,CPV,$5m
+Gvardiol,CRO,$5m
+Rúben Dias,POR,$5m
+Neuer,GER,$5m
+Alaa Al Hejji,KSA,$5m
+Eustaquio,CAN,$5m
+Nuamah,GHA,$5m
+Mohamed Touré,AUS,$5m
+Aït-Nouri,ALG,$4.9m
+Romero,ARG,$4.9m
+Burnic,BIH,$4.9m
+Ryan Mendes,CPV,$4.9m
+Jovane Cabral,CPV,$4.9m
+Dailon Livramento,CPV,$4.9m
+Telmo Arcanjo,CPV,$4.9m
+Deroy Duarte,CPV,$4.9m
+Oluwaseyi,CAN,$4.9m
+Ahmed,CAN,$4.9m
+Sigur,CAN,$4.9m
+Gómez,COL,$4.9m
+Lerma,COL,$4.9m
+Elia,COD,$4.9m
+Mayele,COD,$4.9m
+Mukau,COD,$4.9m
+Guiagon,CIV,$4.9m
+Matanovic,CRO,$4.9m
+Sucic,CRO,$4.9m
+Fruk,CRO,$4.9m
+Visinsky,CZE,$4.9m
+Chytil,CZE,$4.9m
+Denil Castillo,ECU,$4.9m
+Alcívar,ECU,$4.9m
+Rodríguez,ECU,$4.9m
+Minda,ECU,$4.9m
+Jordy Caicedo,ECU,$4.9m
+Mahmoud Saber,EGY,$4.9m
+Konaté,FRA,$4.9m
+Raum,GER,$4.9m
+Ghoddos,IRN,$4.9m
+Mohanad Ali,IRQ,$4.9m
+Ali Jasim,IRQ,$4.9m
+Sano,JPN,$4.9m
+Ogawa,JPN,$4.9m
+Nizar Al Rashdan,JOR,$4.9m
+Park Jin-Seob,KOR,$4.9m
+Kim Jin-Gyu,KOR,$4.9m
+Oh Hyeon-Gyu,KOR,$4.9m
+Rufer,NZL,$4.9m
+Harvey,PAN,$4.9m
+Díaz,PAN,$4.9m
+Arce,PAR,$4.9m
+Ávalos,PAR,$4.9m
+Karim Boudiaf,QAT,$4.9m
+Edmílson Junior,QAT,$4.9m
+Ziyad Al Johani,KSA,$4.9m
+Abdullah Al Hamddan,KSA,$4.9m
+Khalid Al Ghannam,KSA,$4.9m
+Saleh Al Shehri,KSA,$4.9m
+Gueye,SEN,$4.9m
+Koulibaly,SEN,$4.9m
+Diao,SEN,$4.9m
+Cherif Ndiaye,SEN,$4.9m
+Dieng,SEN,$4.9m
+Mbatha,RSA,$4.9m
+Moremi,RSA,$4.9m
+Mofokeng,RSA,$4.9m
+Appollis,RSA,$4.9m
+Grimaldo,ESP,$4.9m
+Ali,SWE,$4.9m
+Smith,SWE,$4.9m
+Nygren,SWE,$4.9m
+Nilsson,SWE,$4.9m
+Mahmoud,TUN,$4.9m
+Akgün,TUR,$4.9m
+Amanov,UZB,$4.9m
+Boakye,GHA,$4.9m
+Tomiyasu,JPN,$4.9m
+Bernhardsson,SWE,$4.9m
+Courtois,BEL,$4.9m
+Hélio Varela,CPV,$4.9m
+Bonny,CIV,$4.9m
+Lee Dong-Gyeong,KOR,$4.9m
+Diogo Costa,POR,$4.9m
+Gannon-Doak,SCO,$4.9m
+Amdouni,SUI,$4.9m
+Tshibola,COD,$4.9m
+Davies,CAN,$4.9m
+Til,NED,$4.9m
+Meunier,BEL,$4.8m
+Estupiñán,ECU,$4.8m
+Konsa,ENG,$4.8m
+Pickford,ENG,$4.8m
+Galarza,PAR,$4.8m
+McLean,SCO,$4.8m
+Ferguson,SCO,$4.8m
+Achouri,TUN,$4.8m
+Mejbri,TUN,$4.8m
+Cheshmi,IRN,$4.8m
+Wieffer,NED,$4.8m
+Titraoui,ALG,$4.7m
+Okon,AUS,$4.7m
+De Cuyper,BEL,$4.7m
+Castagne,BEL,$4.7m
+Bajraktarevic,BIH,$4.7m
+Memic,BIH,$4.7m
+Yannick Semedo,CPV,$4.7m
+Kevin Pina,CPV,$4.7m
+Nuno da Costa,CPV,$4.7m
+Garry Rodrigues,CPV,$4.7m
+Ríos,COL,$4.7m
+Roemeratoe,CUW,$4.7m
+O'Reilly,ENG,$4.7m
+Thiaw,GER,$4.7m
+Brown,GER,$4.7m
+Nübel,GER,$4.7m
+Bellegarde,HAI,$4.7m
+Sainté,HAI,$4.7m
+Jean Jacques,HAI,$4.7m
+Pierrot,HAI,$4.7m
+Ali Al Hamadi,IRQ,$4.7m
+Mohammad Al Daoud,JOR,$4.7m
+Noor Al Rawabdeh,JOR,$4.7m
+Yang Hyun-Jun,KOR,$4.7m
+Vargas,MEX,$4.7m
+Vásquez,MEX,$4.7m
+Montes,MEX,$4.7m
+Gallardo,MEX,$4.7m
+Martínez,MEX,$4.7m
+El Mourabet,MAR,$4.7m
+Verbruggen,NED,$4.7m
+Flekken,NED,$4.7m
+McCowatt,NZL,$4.7m
+Berge,NOR,$4.7m
+Fajardo,PAN,$4.7m
+Romero,PAR,$4.7m
+Rui Silva,POR,$4.7m
+José Sá,POR,$4.7m
+Ahmed Fathy,QAT,$4.7m
+Sarr,SEN,$4.7m
+Zeneli,SWE,$4.7m
+Stroud,SWE,$4.7m
+Kobel,SUI,$4.7m
+Skhiri,TUN,$4.7m
+Khedira,TUN,$4.7m
+Özcan,TUR,$4.7m
+Martínez,URU,$4.7m
+Cristian Roldan,USA,$4.7m
+Berhalter,USA,$4.7m
+Esanov,UZB,$4.7m
+Mozgovoy,UZB,$4.7m
+Portilla,COL,$4.7m
+Moreira,BEL,$4.7m
+Cubas,PAR,$4.7m
+Virenkyi,GHA,$4.7m
+Sibo,GHA,$4.7m
+Devlin,AUS,$4.7m
+Leckie,AUS,$4.7m
+Bounou,MAR,$4.7m
+Hincapié,ECU,$4.7m
+Tyler Fletcher,SCO,$4.7m
+Moghanlou,IRN,$4.7m
+Alaba,AUT,$4.6m
+Alexander Schlager,AUT,$4.6m
+Pentz,AUT,$4.6m
+Lammens,BEL,$4.6m
+João Paulo,CPV,$4.6m
+Muñoz,COL,$4.6m
+Inao Oulaï,CIV,$4.6m
+Emam Ashour,EGY,$4.6m
+Hassan,EGY,$4.6m
+Livramento,ENG,$4.6m
+Stones,ENG,$4.6m
+Alipour,IRN,$4.6m
+Dargahi,IRN,$4.6m
+Eom Ji-Sung,KOR,$4.6m
+Jo Hyeon-Woo,KOR,$4.6m
+Magalhães Prado,PAR,$4.6m
+Gómez,PAR,$4.6m
+Gonçalo Inácio,POR,$4.6m
+Hassan Al Haydos,QAT,$4.6m
+Hirst,SCO,$4.6m
+Dykes,SCO,$4.6m
+Gharbi,TUN,$4.6m
+Yüksek,TUR,$4.6m
+Martínez,ARG,$4.6m
+Jamiro Monteiro,CPV,$4.6m
+Kakuta,COD,$4.6m
+Roefs,NED,$4.6m
+Rulli,ARG,$4.5m
+Theate,BEL,$4.5m
+Bazdar,BIH,$4.5m
+Willy Semedo,CPV,$4.5m
+Mbuku,COD,$4.5m
+Touré,CIV,$4.5m
+Livakovic,CRO,$4.5m
+Comenencia,CUW,$4.5m
+Felida,CUW,$4.5m
+Burn,ENG,$4.5m
+Spence,ENG,$4.5m
+Lacroix,FRA,$4.5m
+Samba,FRA,$4.5m
+Hosseinzadeh,IRN,$4.5m
+Sultan Mandash,KSA,$4.5m
+Édouard Mendy,SEN,$4.5m
+Makgopa,RSA,$4.5m
+Williams,RSA,$4.5m
+Svensson,SWE,$4.5m
+Rodríguez,SUI,$4.5m
+Saad,TUN,$4.5m
+Ayhan,TUR,$4.5m
+Sanabria,URU,$4.5m
+Weverton,BRA,$4.5m
+Alex Sandro,BRA,$4.5m
+Sojka,CZE,$4.5m
+Itakura,JPN,$4.5m
+Mora,MEX,$4.5m
+Tahsin Jamshid,QAT,$4.5m
+Raja'ei Ayed,JOR,$4.5m
+Lee Gi-Hyuk,KOR,$4.5m
+Sapoko Ndiaye,SEN,$4.5m
+Sebelebele,RSA,$4.5m
+Hassan Al Tambakti,KSA,$4.5m
+Bonsu Baah,GHA,$4.5m
+Eric García,ESP,$4.5m
+Diop,MAR,$4.5m
+Tomás Rodríguez,PAN,$4.5m
+Piquerez,URU,$4.5m
+Ouédraogo,GER,$4.5m
+Bensebaini,ALG,$4.4m
+Ghedjemis,ALG,$4.4m
+Molina,ARG,$4.4m
+Otamendi,ARG,$4.4m
+Velupillay,AUS,$4.4m
+Ibañez,BRA,$4.4m
+Ndicka,CIV,$4.4m
+Singo,CIV,$4.4m
+Kuwas,CUW,$4.4m
+Hansen,CUW,$4.4m
+Krejcí,CZE,$4.4m
+Hamdi Fathy,EGY,$4.4m
+Etienne,HAI,$4.4m
+Zaid Ismael,IRQ,$4.4m
+Marko Farji,IRQ,$4.4m
+Youssef Amyn,IRQ,$4.4m
+Sugawara,JPN,$4.4m
+Ibrahim Sadeh,JOR,$4.4m
+Armando González,MEX,$4.4m
+Barbarouses,NZL,$4.4m
+Yanis,PAN,$4.4m
+Ayoub Al Oui,QAT,$4.4m
+Yusuf Abdurisag,QAT,$4.4m
+Mbaye,SEN,$4.4m
+Chaouat,TUN,$4.4m
+Tounekti,TUN,$4.4m
+Gül,TUR,$4.4m
+Giménez,URU,$4.4m
+Arfsten,USA,$4.4m
+Kotarski,CRO,$4.4m
+Ahmed Qasem,IRQ,$4.4m
+Söyüncü,TUR,$4.4m
+Quansah,ENG,$4.4m
+Mazraoui,MAR,$4.4m
+Talbi,MAR,$4.4m
+Londoño,PAN,$4.4m
+Pacho,ECU,$4.4m
+Johansson,SWE,$4.4m
+Tagliafico,ARG,$4.3m
+Musso,ARG,$4.3m
+Lienhart,AUT,$4.3m
+Prass,AUT,$4.3m
+Danso,AUT,$4.3m
+Posch,AUT,$4.3m
+Friedl,AUT,$4.3m
+Debast,BEL,$4.3m
+Kolasinac,BIH,$4.3m
+Dedic,BIH,$4.3m
+Danilo,BRA,$4.3m
+Douglas Santos,BRA,$4.3m
+Bremer,BRA,$4.3m
+Castaño,COL,$4.3m
+Lucumí,COL,$4.3m
+Sánchez,COL,$4.3m
+Vargas,COL,$4.3m
+Wan-Bissaka,COD,$4.3m
+Diomande,CIV,$4.3m
+Kossounou,CIV,$4.3m
+Stanisic,CRO,$4.3m
+Sutalo,CRO,$4.3m
+Preciado,ECU,$4.3m
+Marwan Attia,EGY,$4.3m
+Zizo,EGY,$4.3m
+Baumann,GER,$4.3m
+Watanabe,JPN,$4.3m
+Suzuki,JPN,$4.3m
+van Hecke,NED,$4.3m
+Hato,NED,$4.3m
+Ajer,NOR,$4.3m
+Renato Veiga,POR,$4.3m
+Tierney,SCO,$4.3m
+Niakhaté,SEN,$4.3m
+Teboho Mokoena,RSA,$4.3m
+Zwane,RSA,$4.3m
+Elvedi,SUI,$4.3m
+Çelik,TUR,$4.3m
+Kadioglu,TUR,$4.3m
+Viña,URU,$4.3m
+Olivera,URU,$4.3m
+Khusanov,UZB,$4.3m
+Montiel,ARG,$4.3m
+Sochurek,CZE,$4.3m
+Simon,HAI,$4.3m
+Nélson Semedo,POR,$4.3m
+Hickey,SCO,$4.3m
+Nabil Emad Dunga,EGY,$4.3m
+Hamza Abdelkarim,EGY,$4.3m
+Amaimouni-Echghouy...,MAR,$4.3m
+Yengi,AUS,$4.3m
+Aguerd,MAR,$4.3m
+Dest,USA,$4.3m
+Geertruida,NED,$4.3m
+Benbouali,ALG,$4.2m
+Italiano,AUS,$4.2m
+De Winter,BEL,$4.2m
+Alajbegovic,BIH,$4.2m
+Léo Pereira,BRA,$4.2m
+Masuaku,COD,$4.2m
+Mbemba,COD,$4.2m
+Cipenga,COD,$4.2m
+Yahia Fofana,CIV,$4.2m
+Sucic,CRO,$4.2m
+Chong,CUW,$4.2m
+Gorré,CUW,$4.2m
+Margaritha,CUW,$4.2m
+Anthony Valencia,ECU,$4.2m
+Galíndez,ECU,$4.2m
+Henderson,ENG,$4.2m
+Woodensky Pierre,HAI,$4.2m
+Leverton Pierre,HAI,$4.2m
+Deedson,HAI,$4.2m
+Fortuné,HAI,$4.2m
+Casimir,HAI,$4.2m
+Razzaghinia,IRN,$4.2m
+Beiranvand,IRN,$4.2m
+Ali Yousif,IRQ,$4.2m
+Goto,JPN,$4.2m
+Mohammad Abu Zraiq,JOR,$4.2m
+Mahmoud Al Mardi,JOR,$4.2m
+Seol Young-Woo,KOR,$4.2m
+Ochoa,MEX,$4.2m
+Just,NZL,$4.2m
+Waine,NZL,$4.2m
+Old,NZL,$4.2m
+Ryerson,NOR,$4.2m
+Nyland,NOR,$4.2m
+Caballero,PAR,$4.2m
+Mohammad Al Mannai,QAT,$4.2m
+Ahmed Al Ganehi,QAT,$4.2m
+Maseko,RSA,$4.2m
+Gudmundsson,SWE,$4.2m
+Widmer,SUI,$4.2m
+Mvogo,SUI,$4.2m
+Mastouri,TUN,$4.2m
+Çakir,TUR,$4.2m
+Varela,URU,$4.2m
+Cáceres,URU,$4.2m
+Freese,USA,$4.2m
+Abdullaev,UZB,$4.2m
+Mahmic,BIH,$4.2m
+Mina,COL,$4.2m
+Joseph,HAI,$4.2m
+Ali Olwan,JOR,$4.2m
+Mostafa Zico,EGY,$4.2m
+Pubill,ESP,$4.2m
+Quintero,PAN,$4.2m
+Benbot,ALG,$4.2m
+Ryan,AUS,$4.1m
+Lafont,CIV,$4.1m
+Kovář,CZE,$4.1m
+Kim Seung-Gyu,KOR,$4.1m
+Pedersen,NOR,$4.1m
+Østigård,NOR,$4.1m
+Alonso,PAR,$4.1m
+Alderete,PAR,$4.1m
+Tomás Araújo,POR,$4.1m
+Meshaal Barsham,QAT,$4.1m
+Musab Al Juwayr,KSA,$4.1m
+Saud Abdulhamid,KSA,$4.1m
+Diouf,SEN,$4.1m
+Jakobs,SEN,$4.1m
+Starfelt,SWE,$4.1m
+Neffati,TUN,$4.1m
